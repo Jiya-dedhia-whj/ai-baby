@@ -1,0 +1,40 @@
+body
+{
+  background-position: center;
+  background-size: cover;
+}
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status,#start
+{
+font-size: 18px;
+box-shadow: 6px 6px 6px orange;
+margin-top: 20px;
+}
+
+canvas
+{
+box-shadow:10px 10px 10px lightgreen;
+border-radius: 20px;
+border-color: black;
+border-style: solid;
+}
+
+#number_of_objects
+{
+  font-size: 18px;
+  box-shadow: 6px 6px 6px red;
+  }
+
+.note
+{
+  font-size: 15px;
+  color: black;
+  width: 100%;
+}
